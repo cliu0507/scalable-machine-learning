@@ -2,7 +2,7 @@
 authors:
 Aming Ni
 *********************************
-(1) This folder contains some of the code for my scalable machine learning class in UT Austin.
+(1) This folder contains some of the code for CS 395T scalable machine learning class in UT Austin.
 (2) Project Description:
 hw2: Parallel Matrix Multiplication, Alternating Least Squares using OpenMP. 
 hw3: Parallel Coordinate Descent in SVM using OpenMP with and with atomic locks.
