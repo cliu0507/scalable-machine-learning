@@ -1,0 +1,8 @@
+Things to notice:
+----------------------------------------------------
+1:The main program takes in two files converted from matlab:
+    meta_data.txt: It's the meta data file.
+    data.txt: It's actually the data converted from matlab
+-----------------------------------------------------
+2:the hw4-data is not turned in.
+-----------------------------------------------------

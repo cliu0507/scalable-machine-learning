@@ -1,0 +1,8 @@
+All the source files are under ./Galois-2.2.1/apps/hw5/.
+There are six files:
+1: sp_mult.cpp spMatrix.h spMatrix.cpp for matrix multiplication.
+2: pagerank.cpp pr_spMatrix.h pr_spMatrix.cpp for page rank.
+--------------------------------------------------------------------
+install.sh: details all the necessary installabion on stampede.
+load.sh: just loads the modules to run Galois.
+--------------------------------------------------------------------

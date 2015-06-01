@@ -1,0 +1,35 @@
+1 thread:
+Iteration: 0, Objective Value: 125842.437228, training time: 6.326541, train accuracy: 0.976697, test accuracy: 0.974212
+Iteration: 1, Objective Value: 75296.121345, training time: 11.732524, train accuracy: 0.978527, test accuracy: 0.975694
+Iteration: 2, Objective Value: 58144.061910, training time: 16.891188, train accuracy: 0.979278, test accuracy: 0.976682
+Iteration: 3, Objective Value: 52967.044491, training time: 22.043022, train accuracy: 0.979243, test accuracy: 0.976732
+Iteration: 4, Objective Value: 52013.807486, training time: 26.950803, train accuracy: 0.979012, test accuracy: 0.976188
+Iteration: 5, Objective Value: 51928.333142, training time: 31.857753, train accuracy: 0.978937, test accuracy: 0.976188
+Iteration: 6, Objective Value: 51923.752403, training time: 37.002523, train accuracy: 0.978937, test accuracy: 0.976139
+Iteration: 7, Objective Value: 51923.714827, training time: 42.387241, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 8, Objective Value: 51923.714820, training time: 47.773966, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 9, Objective Value: 51923.714820, training time: 53.641056, train accuracy: 0.978930, test accuracy: 0.976139
+
+8 threads:
+teration: 0, Objective Value: 125842.437228, training time: 1.529411, train accuracy: 0.976697, test accuracy: 0.974212
+Iteration: 1, Objective Value: 75296.121345, training time: 2.938175, train accuracy: 0.978527, test accuracy: 0.975694
+Iteration: 2, Objective Value: 58144.061910, training time: 4.299216, train accuracy: 0.979278, test accuracy: 0.976682
+Iteration: 3, Objective Value: 52967.044491, training time: 5.654315, train accuracy: 0.979243, test accuracy: 0.976732
+Iteration: 4, Objective Value: 52013.807486, training time: 6.964779, train accuracy: 0.979012, test accuracy: 0.976188
+Iteration: 5, Objective Value: 51928.333142, training time: 8.274518, train accuracy: 0.978937, test accuracy: 0.976188
+Iteration: 6, Objective Value: 51923.752403, training time: 9.624534, train accuracy: 0.978937, test accuracy: 0.976139
+Iteration: 7, Objective Value: 51923.714827, training time: 11.015415, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 8, Objective Value: 51923.714820, training time: 12.406004, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 9, Objective Value: 51923.714820, training time: 13.877979, train accuracy: 0.978930, test accuracy: 0.976139
+
+16 threads:
+teration: 0, Objective Value: 125842.437228, training time: 2.776700, train accuracy: 0.976697, test accuracy: 0.974212
+Iteration: 1, Objective Value: 75296.121345, training time: 5.128222, train accuracy: 0.978527, test accuracy: 0.975694
+Iteration: 2, Objective Value: 58144.061910, training time: 7.383725, train accuracy: 0.979278, test accuracy: 0.976682
+Iteration: 3, Objective Value: 52967.044491, training time: 9.636708, train accuracy: 0.979243, test accuracy: 0.976732
+Iteration: 4, Objective Value: 52013.807486, training time: 11.821401, train accuracy: 0.979012, test accuracy: 0.976188
+Iteration: 5, Objective Value: 51928.333142, training time: 13.984702, train accuracy: 0.978937, test accuracy: 0.976188
+Iteration: 6, Objective Value: 51923.752403, training time: 16.181235, train accuracy: 0.978937, test accuracy: 0.976139
+Iteration: 7, Objective Value: 51923.714827, training time: 18.502371, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 8, Objective Value: 51923.714820, training time: 20.839725, train accuracy: 0.978930, test accuracy: 0.976139
+Iteration: 9, Objective Value: 51923.714820, training time: 23.408306, train accuracy: 0.978930, test accuracy: 0.976139

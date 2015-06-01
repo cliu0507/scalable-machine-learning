@@ -1,0 +1,1 @@
+hadoop fs -rm -r temp/*;MAHOUT_OPTS="$MAHOUT_OPTS -Dmapred.map.tasks=1 -Dmapred.reduce.tasks=1";./bin/mahout pagerank --output ani91/mahout/pagerank/out.txt --vertices ani91/mahout/pagerank/live_vex.txt --edges ani91/mahout/pagerank/live_edges.txt --numIterations 100 --stayingProbability 0.85

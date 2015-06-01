@@ -1,0 +1,13 @@
+*********************************
+authors:
+Aming Ni
+*********************************
+(1) This folder contains some of the code for my scalable machine learning class in UT Austin.
+(2) Project Description:
+hw2: Parallel Matrix Multiplication, Alternating Least Squares using OpenMP. 
+hw3: Parallel Coordinate Descent in SVM using OpenMP with and with atomic locks.
+hw4: Parallel Sparse Matrix-Vector Multiplication using OpenMP, and use it in Eigenvector centrality.
+hw5: Parallel Sparse Matrix-Vector Multiplication using Galois, and use it in PageRank.
+hw6: Compute TF-IDF value on web documents using MapReduce on Hadoop file system, and cluster them using Batch k-means, Incremental k-means, and LIBLINEAR SVM.
+hw7: Compare PageRank using OpenMP, GraphLab, Apache Spark, Apache Mahout, and Galois. Compare Alternating Least Squares on Apache Mahout, and Apache Spark. Parallel Hessian-vector product using OpenMP.
+*****************************

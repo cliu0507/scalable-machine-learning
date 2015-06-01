@@ -1,0 +1,1 @@
+/opt/apps/gcc/4.7.1/bin/c++    -g -march=native -std=c++11 -O3 -DNDEBUG    CMakeFiles/pagerank.out.dir/pagerank.cpp.o CMakeFiles/pagerank.out.dir/pr_spMatrix.cpp.o  -o pagerank.out -rdynamic ../../src/libgalois.a -lpthread -lnuma 

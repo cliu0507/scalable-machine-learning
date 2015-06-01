@@ -1,0 +1,21 @@
+Galois:
+livejournal->> 79.01, 19.12, 8.12
+friendster->> 897.12, 192.21, 93.34
+------------------------------------------
+openMp:
+livejournal->> 48.56, 10.83, 9.12
+friendster->> 712.12, 132.12, 83.12
+-----------------------------------------
+GraphLab:
+livejournal->> 312.3, 351.1, 341.2
+friendster->> 4028.1, 3992.2, 4123.2
+-----------------------------------------
+settting number of mappers and reducers don't have an effect on Apache Mahout and Spark graphx.
+----------------------------------------
+Apache Mahout:
+livejournal->> 1623.12
+friendster->> 7612.32
+---------------------------------------
+Apache Spark:
+livejournal->> 10123.32
+friendster->> 14231.15

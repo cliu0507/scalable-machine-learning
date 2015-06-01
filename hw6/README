@@ -1,0 +1,12 @@
+java folder:
+    contains the files for map reduce file
+
+matlab folder:
+    contains the files for k means problem
+
+output folder:
+    contains the outputs from map reduce and model file from libsvm
+    The output files for webspam train and test are over 1GB, so I didn't zip it, available as needed.
+
+shjobs:
+    contains some scripts used for running experiments
